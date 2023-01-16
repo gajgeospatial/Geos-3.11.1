@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="N:\Development\Dev_Base\geos-3.11.1\msvc\CMakeFiles\19904a81f88cd61d90588fd7d49364b9\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FD5F931B-61C4-3D52-A5B0-2CA080A6E17E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

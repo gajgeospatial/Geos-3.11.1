@@ -1,0 +1,17 @@
+N:/Development/Dev_Base/geos-3.11.1/msvc/CMakeFiles/uninstall.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/CMakeFiles/geos.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/CMakeFiles/geos_c.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/CMakeFiles/check.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/CMakeFiles/ALL_BUILD.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/CMakeFiles/ZERO_CHECK.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/include/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/src/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/src/deps/CMakeFiles/ryu.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/src/deps/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/capi/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/util/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/util/geosop/CMakeFiles/geosop.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/util/geosop/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/doxygen/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/geos-3.11.1/msvc/tools/CMakeFiles/INSTALL.dir
