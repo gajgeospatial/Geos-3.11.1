@@ -483,18 +483,6 @@
     <ClCompile Include="..\capi\geos_c.cpp" />
     <ClCompile Include="..\capi\geos_ts_c.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include=".\ZERO_CHECK.vcxproj">
-      <Project>{0218540B-8975-3ED6-8BB2-8881DE4E48AB}</Project>
-      <Name>ZERO_CHECK</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </ProjectReference>
-    <ProjectReference Include=".\geos.vcxproj">
-      <Project>{EF4CB34E-D6A4-3A85-B2D0-7C82282F3526}</Project>
-      <Name>geos</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
