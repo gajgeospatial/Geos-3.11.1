@@ -1384,20 +1384,6 @@ if exist $(Dev_Base)\$(GDAL_DIR)\msvc\vc$(PlatformToolsetVersion)\$(Platform)\bi
     <ClCompile Include="..\src\util\math.cpp" />
     <Object Include=".\src\deps\ryu.dir\vc$(PlatformToolsetVersion)\$(Platform)\$(Configuration)\d2s.obj" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include=".\ZERO_CHECK.vcxproj">
-      <Project>{0218540B-8975-3ED6-8BB2-8881DE4E48AB}</Project>
-      <Name>ZERO_CHECK</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </ProjectReference>
-    <ProjectReference Include=".\src\deps\ryu.vcxproj">
-      <Project>{814D335E-48F5-3D08-A567-029D2E6DF2CB}</Project>
-      <Name>ryu</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
